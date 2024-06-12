@@ -6,4 +6,9 @@ const calcAverage = (a, b, c) => {
 }
 
 
-// console.log ('Daniel')
+const dolphins1 = calcAverage(44, 23, 71);
+const dolphins2 = calcAverage(85, 54, 41);
+
+const koalas1 = calcAverage(65, 54, 49);
+const koalas2 = calcAverage(23, 34, 27);
+
